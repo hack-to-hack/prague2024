@@ -18,7 +18,11 @@ Hack-to-Hack is an initiative to empower interoperability between hackers, and b
 
 Such an initiative has inevitable real-world costs. We aim to keep these as lean as possible, while providing a comfortable environment for collaborating, hacking, and enjoying. Costs largely relate to rental of a location, and tables / chairs / power / internet, to provide basic needs for a hacking co-work. We propose to provide minimal catering, and instead to inform participants about local options for food and drink, as a way to encourage hackers to get to know the city of Prague.
 
-## Proposed venues
+## Venue
+
+In terms of venue, the event will be similar to Devconnect Coworking in Istanbul. The basic aim is to provide a comfortable environment for collaborating, hacking, and enjoying - while keeping a sustainable budget without excessive spending.
+
+### Proposed venues
 
 | Name | Location | Capacity (evening) | Highlights |
 | --- | --- | --- | --- |
