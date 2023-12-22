@@ -1,6 +1,6 @@
 # Hack-to-Hack Co-work: To Prague from Berlin
 
-**May 27-30, 2024 - Prague**
+**May 27-30, 2024 - Prague, Czech Republic 🇨🇿**
 
 💬 Matrix chat: https://matrix.to/#/#hack-to-hack:gwei.cz
 
