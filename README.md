@@ -31,6 +31,18 @@ In terms of venue, the event will be similar to Devconnect Coworking in Istanbul
 | [Pragovka](https://pragovka.com/en) | Vysočany, Praha 9 | Flexible (500+) | flexibility, not in center |
 | [Loft BubNY](https://loftbubny.cz/) | Holešovice, Praha 7 | 100 (200) | compact, no services around |
 
+## Partners
+
+### Proposed partners
+
+* Gwei.cz
+* ETHBerlin (Department of Decentralization)
+* ETHPrague (Duct Tape Production)
+* Swarm
+* Starknet
+* FactoryDAO
+* Ethereum Event Gardeners
+
 ## Contributors
 
 * [@burningtree](https://github.com/burningtree)
