@@ -13,6 +13,7 @@ Milestones in terms of putting on the event are:
 - Selecting a venue in Prague
 - Securing overall funding (estimated at between $20k and $50k - dependent on venue and capacity)
 - Announce the concept, and start accepting applications to attend
+- Organise The Hacktrain: a nomadic adventure to mark the migration from Goerli to Holesky
 
 Hack-to-Hack is an initiative to empower interoperability between hackers, and between hackathons. It aims to use open source and decentralised systems for management of all data submitted by participants, and to uphold an individual's self-sovereignty throughout the participation in the event.
 
