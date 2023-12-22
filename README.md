@@ -6,7 +6,7 @@
 
 ## Intro
 
-We propose the concept of a co-work space in Prague, Czech Republic from 27-30 May, for hackers to bridge the gap between two hackathons on adjacent weekends: ETHBerlin (24-26 May) and ETHPrague (31 May to 2 June). We aim to empower international collaboration at the crossroads of east and west, and kick-off the summer of buidling in 2024.
+We propose the concept of a co-work space in Prague, Czech Republic from 27-30 May, for hackers to bridge the gap between two hackathons on adjacent weekends: [ETHBerlin](https://ethberlin.org/) (24-26 May) and [ETHPrague](https://ethprague.com/) (31 May to 2 June). We aim to empower international collaboration at the crossroads of east and west, and kick-off the summer of buidling in 2024.
 Milestones in terms of putting on the event are:
 
 - Securing general support from community
