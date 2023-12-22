@@ -33,6 +33,8 @@ In terms of venue, the event will be similar to Devconnect Coworking in Istanbul
 
 ## Partners
 
+This event is intended to be non-profit and community based. We would be glad for any support and help, especially in terms of securing funding.
+
 ### Proposed partners
 
 * Gwei.cz
@@ -42,6 +44,7 @@ In terms of venue, the event will be similar to Devconnect Coworking in Istanbul
 * Starknet
 * FactoryDAO
 * Ethereum Event Gardeners
+* Web3Privacy Now
 
 ## Contributors
 
