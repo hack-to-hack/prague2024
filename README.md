@@ -14,3 +14,10 @@ Hack-to-Hack is an initiative to empower interoperability between hackers, and b
 
 Such an initiative has inevitable real-world costs. We aim to keep these as lean as possible, while providing a comfortable environment for collaborating, hacking, and enjoying. Costs largely relate to rental of a location, and tables / chairs / power / internet, to provide basic needs for a hacking co-work. We propose to provide minimal catering, and instead to inform participants about local options for food and drink, as a way to encourage hackers to get to know the city of Prague.
 
+## Proposed venues
+
+| Name | Location | Capacity (evening) | Highlights |
+| --- | --- | --- | --- |
+| [Kasárna Karlín](https://kasarnakarlin.cz/en/main-page) | Karlín, Praha 8 | 300 (500+) | big courtyard, enclosed area |
+| [Pragovka](https://pragovka.com/en) | Vysočany, Praha 9 | Flexible (500+) | flexibility, not in center |
+| [Loft BubNY](https://loftbubny.cz/) | Holešovice, Praha 7 | 100 (200) | compact, no services around |
