@@ -49,4 +49,3 @@ This event is intended to be non-profit and community based. We would be glad fo
 ## Contributors
 
 * [@burningtree](https://github.com/burningtree)
-* [@chrishobcroft](https://github.com/chrishobcroft)
