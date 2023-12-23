@@ -46,6 +46,6 @@ This event is intended to be non-profit and community based. We would be glad fo
 * Ethereum Event Gardeners
 * Web3Privacy Now
 
-## Contributors
+## Contributor
 
 * [@burningtree](https://github.com/burningtree)
