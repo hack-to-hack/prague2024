@@ -19,6 +19,32 @@ Hack-to-Hack is an initiative to empower interoperability between hackers, and b
 
 Such an initiative has inevitable real-world costs. We aim to keep these as lean as possible, while providing a comfortable environment for collaborating, hacking, and enjoying. Costs largely relate to rental of a location, and tables / chairs / power / internet, to provide basic needs for a hacking co-work. We propose to provide minimal catering, and instead to inform participants about local options for food and drink, as a way to encourage hackers to get to know the city of Prague.
 
+## Focus 
+
+There has been considerable advancements in primitives in our space, but we risk losing sight of some original cypherpunk ideals of self-sovereignty. We welcome all hardware and software hackers to attend an open workspace and a series of practical workshops.  
+
+Topics
+
+ - running your own node
+   - RPC endpoints
+   - restaking
+   - distributed validator technology
+ - communications and media
+   - personal devices and HCI
+   - backend infra
+   - p2p networking infra
+ - zk
+   - accelerating hardware: FPGAs, GPUs
+   - client side proving
+   - participating in proving markets
+     
+Structure: 
+ - Open hack space
+ - workshops
+ - closing ceremony showcase and findings 
+
+BYOH: Bring your own hardware. Think rasbperrypi, pinephhone, rock5b, GPUs, FPGAs, pinewatch..etc. 
+
 ## Venue
 
 In terms of venue, the event will be similar to Devconnect Coworking in Istanbul. The basic aim is to provide a comfortable environment for collaborating, hacking, and enjoying - while keeping a sustainable budget without excessive spending.
