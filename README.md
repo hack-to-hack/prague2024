@@ -21,7 +21,7 @@ Such an initiative has inevitable real-world costs. We aim to keep these as lean
 
 ## Focus 
 
-There has been considerable advancements in software primitives in our space. We are, however, losing sight of some original cypherpunk ideals of self-sovereignty, and running your own hardware infra.
+There have been considerable advancements in software primitives in our space. We are, however, losing sight of some original cypherpunk ideals of self-sovereignty, and running your own hardware infra.
 
 As such, we welcome all hardware and software hackers to attend an open hackspace for experimentation and a series of practical workshops on various topics, relating to the intersection of hardware and software. 
 
