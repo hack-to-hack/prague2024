@@ -41,7 +41,6 @@ There has been considerable advancements in software primitives in our space, bu
    - booting and deployment
    - configuration management
    - software development lifecycle
-   - human resources
  - layer 1 - network
    - blobs
    - verkle tries
@@ -94,3 +93,5 @@ This event is intended to be non-profit and community based. We would be glad fo
 ## Contributor
 
 * [@burningtree](https://github.com/burningtree)
+* [@mohammed7s](https://github.com/mohammed7s)
+* [@chrishobcroft](https://github.com/chrishobcroft)
