@@ -21,9 +21,9 @@ Such an initiative has inevitable real-world costs. We aim to keep these as lean
 
 ## Focus 
 
-There has been considerable advancements in primitives in our space, but we risk losing sight of some original cypherpunk ideals of self-sovereignty. We welcome all hardware and software hackers to attend an open hackspace for experimentation and a series of practical workshops on various topics. 
+There has been considerable advancements in software primitives in our space, but we risk losing sight of some original cypherpunk ideals of self-sovereignty, and running your own hardware. We welcome all hardware and software hackers to attend an open hackspace for experimentation and a series of practical workshops on various topics, relating to the intersection of hardware ans software. 
 
-Topics
+### Topics
 
  - running your own node
    - RPC endpoints
@@ -37,14 +37,27 @@ Topics
    - FPGAs, GPUs 
    - client side proving
    - participating in proving markets
-  
-     
-Structure: 
- - Open hack space
- - workshops
- - closing ceremony showcase and findings 
+ - layer 1 - network
+   - blobs
+   - verkle tries
+   - world computer 2.0
+ - layer 0 - community
+   - collaboration
+   - coordination
+   - connection
+ - open standards
+   - software
+   - hardware
 
-BYOH: Bring your own hardware. Think rasbperrypi, pinephhone, rock5b, GPUs, FPGAs, pinewatch, 3d printers..etc. 
+### Structure 
+ - Open Hack Space
+ - Workshops
+ - Show and Tell
+ - Closing Ceremony 
+
+### BYOH: Bring your own hardware.
+
+Think rasbperrypi, pinephhone, rock5b, GPUs, FPGAs, pinewatch, 3d printers, TVs, ATMs, cameras, microphones, screens, speakers..etc. 
 
 ## Venue
 
