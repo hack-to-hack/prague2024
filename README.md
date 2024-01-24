@@ -21,7 +21,7 @@ Such an initiative has inevitable real-world costs. We aim to keep these as lean
 
 ## Focus 
 
-There has been considerable advancements in primitives in our space, but we risk losing sight of some original cypherpunk ideals of self-sovereignty. We welcome all hardware and software hackers to attend an open workspace and a series of practical workshops.  
+There has been considerable advancements in primitives in our space, but we risk losing sight of some original cypherpunk ideals of self-sovereignty. We welcome all hardware and software hackers to attend an open hackspace for experimentation and a series of practical workshops on various topics. 
 
 Topics
 
@@ -31,19 +31,20 @@ Topics
    - distributed validator technology
  - communications and media
    - personal devices and HCI
-   - backend infra
-   - p2p networking infra
- - zk
-   - accelerating hardware: FPGAs, GPUs
+   - backend infra  
+   - p2p networking infra 
+ - proving and acceleration
+   - FPGAs, GPUs 
    - client side proving
    - participating in proving markets
+  
      
 Structure: 
  - Open hack space
  - workshops
  - closing ceremony showcase and findings 
 
-BYOH: Bring your own hardware. Think rasbperrypi, pinephhone, rock5b, GPUs, FPGAs, pinewatch..etc. 
+BYOH: Bring your own hardware. Think rasbperrypi, pinephhone, rock5b, GPUs, FPGAs, pinewatch, 3d printers..etc. 
 
 ## Venue
 
