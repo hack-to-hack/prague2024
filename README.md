@@ -37,6 +37,11 @@ There has been considerable advancements in software primitives in our space, bu
    - FPGAs, GPUs 
    - client side proving
    - participating in proving markets
+ - operations
+   - booting and deployment
+   - configuration management
+   - software development lifecycle
+   - human resources
  - layer 1 - network
    - blobs
    - verkle tries
