@@ -21,7 +21,9 @@ Such an initiative has inevitable real-world costs. We aim to keep these as lean
 
 ## Focus 
 
-There has been considerable advancements in software primitives in our space, but we risk losing sight of some original cypherpunk ideals of self-sovereignty, and running your own hardware. We welcome all hardware and software hackers to attend an open hackspace for experimentation and a series of practical workshops on various topics, relating to the intersection of hardware ans software. 
+There has been considerable advancements in software primitives in our space. We are, however, losing sight of some original cypherpunk ideals of self-sovereignty, and running your own hardware infra.
+
+As such, we welcome all hardware and software hackers to attend an open hackspace for experimentation and a series of practical workshops on various topics, relating to the intersection of hardware and software. 
 
 ### Topics
 
@@ -41,14 +43,6 @@ There has been considerable advancements in software primitives in our space, bu
    - booting and deployment
    - configuration management
    - software development lifecycle
- - layer 1 - network
-   - blobs
-   - verkle tries
-   - world computer 2.0
- - layer 0 - community
-   - collaboration
-   - coordination
-   - connection
  - open standards
    - software
    - hardware
@@ -61,7 +55,7 @@ There has been considerable advancements in software primitives in our space, bu
 
 ### BYOH: Bring your own hardware.
 
-Think rasbperrypi, pinephhone, rock5b, GPUs, FPGAs, pinewatch, 3d printers, TVs, ATMs, cameras, microphones, screens, speakers..etc. 
+Think rasbperrypi, pinephone, rock5b, GPU, FPGA, pinewatch, 3d printers, TVs, ATMs, cameras, microphones, screens, speakers, etc. 
 
 ## Venue
 
