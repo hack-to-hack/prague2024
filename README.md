@@ -75,17 +75,11 @@ This event is intended to be non-profit and community based. We would be glad fo
 
 ### Proposed partners
 
-* Gwei.cz
 * ETHBerlin (Department of Decentralization)
 * ETHPrague (Duct Tape Production)
 * Swarm
-* Starknet
-* FactoryDAO
-* Ethereum Event Gardeners
-* Web3Privacy Now
 
 ## Contributor
 
-* [@burningtree](https://github.com/burningtree)
 * [@mohammed7s](https://github.com/mohammed7s)
 * [@chrishobcroft](https://github.com/chrishobcroft)
