@@ -19,6 +19,44 @@ Hack-to-Hack is an initiative to empower interoperability between hackers, and b
 
 Such an initiative has inevitable real-world costs. We aim to keep these as lean as possible, while providing a comfortable environment for collaborating, hacking, and enjoying. Costs largely relate to rental of a location, and tables / chairs / power / internet, to provide basic needs for a hacking co-work. We propose to provide minimal catering, and instead to inform participants about local options for food and drink, as a way to encourage hackers to get to know the city of Prague.
 
+## Focus 
+
+There have been considerable advancements in software primitives in our space. We are, however, losing sight of some original cypherpunk ideals of self-sovereignty, and running your own hardware infra.
+
+As such, we welcome all hardware and software hackers to attend an open hackspace for experimentation and a series of practical workshops on various topics, relating to the intersection of hardware and software. 
+
+### Topics
+
+ - running your own node
+   - RPC endpoints
+   - restaking
+   - distributed validator technology
+ - communications and media
+   - personal devices and HCI
+   - backend infra  
+   - p2p networking infra 
+ - proving and acceleration
+   - FPGAs, GPUs 
+   - client side proving
+   - participating in proving markets
+ - operations
+   - booting and deployment
+   - configuration management
+   - software development lifecycle
+ - open standards
+   - software
+   - hardware
+
+### Structure 
+ - Open Hack Space
+ - Workshops
+ - Show and Tell
+ - Closing Ceremony 
+
+### BYOH: Bring your own hardware.
+
+Think rasbperrypi, pinephone, rock5b, GPU, FPGA, pinewatch, 3d printers, TVs, ATMs, cameras, microphones, screens, speakers, etc. 
+
 ## Venue
 
 In terms of venue, the event will be similar to Devconnect Coworking in Istanbul. The basic aim is to provide a comfortable environment for collaborating, hacking, and enjoying - while keeping a sustainable budget without excessive spending.
@@ -49,3 +87,5 @@ This event is intended to be non-profit and community based. We would be glad fo
 ## Contributor
 
 * [@burningtree](https://github.com/burningtree)
+* [@mohammed7s](https://github.com/mohammed7s)
+* [@chrishobcroft](https://github.com/chrishobcroft)
